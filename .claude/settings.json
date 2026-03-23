@@ -1,5 +1,12 @@
 {
   "enabledPlugins": {
     "telegram@claude-plugins-official": true
+  },
+  "pluginConfigs": {
+    "telegram@claude-plugins-official": {
+      "options": {
+        "pairingCode": "HKjDP"
+      }
+    }
   }
 }
